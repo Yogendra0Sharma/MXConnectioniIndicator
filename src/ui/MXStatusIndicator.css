@@ -1,0 +1,11 @@
+/*
+Place your custom CSS here
+*/
+:root {
+    --status-indicator-size: 20px;
+    --status-indicator-animation-duration: 1s;
+}
+
+span {
+    padding-left:5px;
+}
